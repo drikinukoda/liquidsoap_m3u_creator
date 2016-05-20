@@ -1,5 +1,5 @@
 #!/bin/bash
-#Radio Mesopotamos Playlist Creator [Greek] Unix Script by Alexandros Mitsis
+#Liquidsoap Playlist Creator [Greek] Unix Script by Alexandros Mitsis
 
 echo "Πληκτρολογήστε τον Φάκελο Προέλευσης των MP3 αρχείων (π.χ. /home/$USER/radio/mp3s/gr): "
 
