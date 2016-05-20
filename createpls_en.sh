@@ -1,7 +1,7 @@
 #!/bin/bash
 #Liquidsoap Playlist Creator [English] Unix Script by Alexandros Mitsis
 
-echo "Please insert your folder Containing Your MP3 files (e.g. /home/$USER/radio/mp3s/en): "
+echo "Please insert your folder Containing Your MP3 files (e.g. /home/$USER/mp3s): "
 
 read in_folder
 
