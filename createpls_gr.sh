@@ -1,7 +1,7 @@
 #!/bin/bash
 #Liquidsoap Playlist Creator [Greek] Unix Script by Alexandros Mitsis
 
-echo "Πληκτρολογήστε τον Φάκελο Προέλευσης των MP3 αρχείων (π.χ. /home/$USER/radio/mp3s/gr): "
+echo "Πληκτρολογήστε τον Φάκελο Προέλευσης των MP3 αρχείων (π.χ. /home/$USER/mp3s): "
 
 read in_folder
 
